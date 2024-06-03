@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://FlagMotori.github.io/writeups/crypto/writeups/0xL4ughCTF/RSA-GCD/</loc>
+         <lastmod>2024-06-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://FlagMotori.github.io/writeups/crypto/writeups/BYUCTF/AreSA/</loc>
          <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
