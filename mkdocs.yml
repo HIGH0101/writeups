@@ -222,17 +222,22 @@ nav:
         - جزوه:
             - ریاضیات رمزنگاری:
                 - حساب پیمانه‌ای:
-                    - Euclidean Algorithm: crypto/wiki/euclidean-algorithm/euclidean-algorithm.md
-                    - Fermat's little theorem: crypto/wiki/fermat-little-theorem/fermat-little-theorem.md
-                    - Quadratic residues: crypto/wiki/quadratic-residues/quadratic-residues.md
-                    - Tonelli-Shanks: crypto/wiki/tonelli-shanks/tonelli-shanks.md
-                    - CRT: crypto/wiki/CRT/chinese-remainder-theorem.md
-                    - Modular Binomials: crypto/wiki/modular-binomials/modular-binomials.md
+                    - Euclidean algorithm: crypto/wiki/Modular-arithmetic/euclidean-algorithm.md
+                    - Fermat's little theorem: crypto/wiki/Modular-arithmetic/fermat-little-theorem.md
+                    - Quadratic residues: crypto/wiki/Modular-arithmetic/quadratic-residues.md
+                    - Tonelli-Shanks: crypto/wiki/Modular-arithmetic/tonelli-shanks.md
+                    - CRT: crypto/wiki/Modular-arithmetic/chinese-remainder-theorem.md
+                    - Modular Binomials: crypto/wiki/Modular-arithmetic/modular-binomials.md
                 # - هندسه جبری:
                 #     - Elliptic Curves: crypto/wiki/elliptic-curves.md
+                #- مشبکه‌ها (Lattices):
+                #    - Intro: crypto/wiki/Lattices/Intro.md
+                    #- LWE: crypto/wiki/Lattices/lwe.md
+                    #- LLL-Lattice basis Reduction: crypto/wiki/Lattices/lattice-reduction.md
+
             - رمزنگاری نامتقارن:
-                - RSA: crypto/wiki/rsa/rsa.md
-                - DH Key-Exchange: crypto/wiki/dhke/diffie-hellman-key-exchange.md
+                - RSA: crypto/wiki/Asymmetric-cryptography/rsa/rsa.md
+                - DH Key-Exchange: crypto/wiki/Asymmetric-cryptography/dhke/diffie-hellman-key-exchange.md
             # - رمزنگاری متقارن:
             #     - AES: crypto/wiki/aes.md
         - رایتاپ‌های ۲۰۲۵:
