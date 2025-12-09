@@ -5,7 +5,7 @@ tags:
   - Modular arithmetic
 ---
 
-## قضیه Fermat's little
+#  قضیه کوچک فرما (Fermat's little Theorem) 
 
 ???+ note "قضیه Fermat's little"
 
